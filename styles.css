@@ -46,6 +46,7 @@ main {
     flex-direction: column;
     justify-content: space-between;
     overflow-x: hidden;
+    position: relative;
 }
 
 .container {
