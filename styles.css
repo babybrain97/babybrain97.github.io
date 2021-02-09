@@ -64,6 +64,11 @@ main {
     flex-direction: column;
 }
 
+.background-shapes {
+    margin: 0;
+    overflow-x: hidden;
+}
+
 .background-shape-right {
     display: none;
 }
