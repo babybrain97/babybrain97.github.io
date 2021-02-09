@@ -67,6 +67,8 @@ main {
 .background-shapes {
     margin: 0;
     overflow-x: hidden;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 .background-shape-right {
